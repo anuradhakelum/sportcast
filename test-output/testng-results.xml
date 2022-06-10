@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-10T17:51:09 AEST" name="Sportcast Test-Suite" finished-at="2022-06-10T17:53:12 AEST" duration-ms="122794">
+    <groups>
+    </groups>
+    <test started-at="2022-06-10T17:51:09 AEST" name="Loginpage Test" finished-at="2022-06-10T17:53:12 AEST" duration-ms="122794">
+      <class name="testcases.LoginPage_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:51:09 AEST" name="setUp" finished-at="2022-06-10T17:51:23 AEST" duration-ms="14541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_forgot_password()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:51:23 AEST" name="test_forgot_password" finished-at="2022-06-10T17:51:25 AEST" duration-ms="1584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_forgot_password -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:51:25 AEST" name="tearDown" finished-at="2022-06-10T17:51:25 AEST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:51:25 AEST" name="setUp" finished-at="2022-06-10T17:51:40 AEST" duration-ms="14479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_login_with_blank_details()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:51:40 AEST" name="test_login_with_blank_details" finished-at="2022-06-10T17:51:40 AEST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_with_blank_details -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:51:40 AEST" name="tearDown" finished-at="2022-06-10T17:51:40 AEST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:51:40 AEST" name="setUp" finished-at="2022-06-10T17:51:50 AEST" duration-ms="9384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_login_with_correct_details()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:51:50 AEST" name="test_login_with_correct_details" finished-at="2022-06-10T17:51:51 AEST" duration-ms="1072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_with_correct_details -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:51:51 AEST" name="tearDown" finished-at="2022-06-10T17:51:51 AEST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:51:51 AEST" name="setUp" finished-at="2022-06-10T17:52:01 AEST" duration-ms="9540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_login_with_incorrect_password()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:52:01 AEST" name="test_login_with_incorrect_password" finished-at="2022-06-10T17:52:01 AEST" duration-ms="862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_with_incorrect_password -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:52:01 AEST" name="tearDown" finished-at="2022-06-10T17:52:02 AEST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:52:02 AEST" name="setUp" finished-at="2022-06-10T17:52:12 AEST" duration-ms="10228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_login_with_incorrect_userName()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:52:12 AEST" name="test_login_with_incorrect_userName" finished-at="2022-06-10T17:52:13 AEST" duration-ms="900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_with_incorrect_userName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:52:13 AEST" name="tearDown" finished-at="2022-06-10T17:52:13 AEST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:52:13 AEST" name="setUp" finished-at="2022-06-10T17:52:24 AEST" duration-ms="10898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_login_with_special_characters()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:52:24 AEST" name="test_login_with_special_characters" finished-at="2022-06-10T17:52:25 AEST" duration-ms="895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_with_special_characters -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:52:25 AEST" name="tearDown" finished-at="2022-06-10T17:52:25 AEST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:52:25 AEST" name="setUp" finished-at="2022-06-10T17:52:33 AEST" duration-ms="7940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_password_is_hidden()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:52:33 AEST" name="test_password_is_hidden" finished-at="2022-06-10T17:52:33 AEST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_password_is_hidden -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:52:33 AEST" name="tearDown" finished-at="2022-06-10T17:52:33 AEST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:52:33 AEST" name="setUp" finished-at="2022-06-10T17:52:43 AEST" duration-ms="9760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_remember_me()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:52:43 AEST" name="test_remember_me" finished-at="2022-06-10T17:52:52 AEST" duration-ms="8908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_remember_me -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:52:52 AEST" name="tearDown" finished-at="2022-06-10T17:52:52 AEST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:52:52 AEST" name="setUp" finished-at="2022-06-10T17:53:02 AEST" duration-ms="10145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_remember_me_negative()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:53:02 AEST" name="test_remember_me_negative" finished-at="2022-06-10T17:53:12 AEST" duration-ms="9413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_remember_me_negative -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.LoginPage_Test@4d339552]" started-at="2022-06-10T17:53:12 AEST" name="tearDown" finished-at="2022-06-10T17:53:12 AEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.LoginPage_Test -->
+    </test> <!-- Loginpage Test -->
+  </suite> <!-- Sportcast Test-Suite -->
+</testng-results>
