@@ -137,6 +137,7 @@ public class LoginPage_Test extends BaseTest {
         String message = loginPage.getConfirmationGetLink();
 
         Assert.assertEquals(message,"Thank you,");
+        //Can validate by checking the emails using selenium or manually
     }
 
 }
