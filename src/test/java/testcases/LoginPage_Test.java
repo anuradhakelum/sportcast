@@ -124,7 +124,7 @@ public class LoginPage_Test extends BaseTest {
         loginPage = new LoginPage(driver);
         String title = loginPage.getTitle();
         driver.quit();
-        Assert.assertEquals(title,"Sportcast Live");//Hope Home page and other pages has different name
+        Assert.assertEquals(title,"Sportcast Live");//Hope Home page and other pages have different name
 
     }
 
